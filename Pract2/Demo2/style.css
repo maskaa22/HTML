@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+.infa {
+    display: flex;
+    width: 100%;
+    height: 200px;
+}
+p {
+    margin: 0;
+    padding: 10px;
+    text-align: justify;
+}
+.home {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(137, 71, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(23, 148, 226);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cabobs {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(59, 92, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cabo {
+    width: 100%;
+    height: 325px;
+    background-color: rgb(62, 18, 185);
+    display: flex;
+}
+.bo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,95 @@
+body {
+    margin: 10px;
+}
+.d-flex {
+    justify-content: center;
+    align-items: center;
+}
+.max-width {
+    max-width: 100%;
+}
+.top-one {
+
+    height: 50px;
+    display: flex;
+}
+p {
+    margin: 0;
+    color: black;
+}
+.logo {
+    margin-right: 10px;
+    width: 20%;
+    background-color: violet;
+}
+.navi {
+    width: 80%;
+    background-color: tomato;
+}
+.top-next {
+    margin: 10px 0;
+    height: 60px;
+    background-color: yellow;
+    display: flex;
+}
+.alert {
+    height: 250px;
+    background-color: blue;
+    display: flex;
+}
+.credni {
+    margin: 10px 0;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.cr-l {
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.cr-l-cr{
+    margin: 0 10px 0 0;
+    width: 50%;
+    height: 100%;
+}
+.col {
+    margin-right: 0;
+    background-color: springgreen;
+    display: flex;
+}
+.cr-l-block{
+    width: 100%;
+    height: 49.15%;
+    background-color: royalblue;
+    margin: 0 5px 10px 0;
+    display: flex;
+}
+.line {
+   height: 300px;
+    display: flex;
+}
+.li-bl {
+    margin: 0 10px 0 0;
+    width: 50%;
+    height: 100%;
+    background-color: salmon;
+}
+.lin {
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.marg {
+    margin-right: 0;
+}
+.pos{
+    width: 50%;
+    position: relative;
+}
+.poss {
+    margin-top: 0;
+    position: absolute;
+    left: 100%;
+
+}

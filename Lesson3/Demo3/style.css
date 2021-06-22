@@ -1,0 +1,203 @@
+body, p, a, h1, h2, h3, h4 {
+    margin: 0;
+}
+p {
+    text-align: justify;
+}
+.heder {
+    background-color: rgb(226, 222, 222);
+    max-width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.heder :hover {
+    cursor: pointer;
+}
+.logo {
+    margin: 0 0 15px 55px;
+    padding-top: 15px;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(110, 104, 104);
+    font-size: 30px;
+}
+.logo i{
+    font-size: 30px;
+    color: rgb(110, 104, 104);
+}
+.nav {
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding-right: 65px;
+}
+.nav-item a {
+    text-decoration: none;
+    color: rgb(110, 104, 104);
+    text-transform: uppercase;
+}
+.glavna {
+    max-width: 100%;
+    height: 550px;
+    display: flex;
+    background-color: rgb(226, 222, 222);
+}
+.left {
+    width: 60%;
+    height: 100%;
+}
+.verh {
+    width: 100%;
+    height: 40%;
+    display: flex;
+}
+.v-top {
+    width: 70%;
+}
+.verh h1, h4 {
+    padding: 30px 0 0 55px;
+}
+.niz {
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+.item-left {
+    width: 50%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+.item-right {
+    width: 50%;
+    height: 100%;
+    /* background-color: coral; */
+}
+.niz-item {
+    width: 100%;
+    height: 50%;
+}
+.niz-item p, h3 {
+    padding: 20px 0 0 55px;
+}
+.right {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.img-poz  {
+    position: relative;
+    top: 300px;
+    right: 150px;
+}
+.media {
+    width: 100%;
+    height: 450px;
+    background-color: rgb(42, 62, 121);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.krug {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgb(226, 222, 222);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.krug i {
+    font-size: 25px;
+    color: rgb(226, 222, 222);
+}
+.krug :hover {
+    cursor: pointer;
+}
+.info {
+    padding-top: 30px;
+    width: 100%;
+    height: 350px;
+    background-color: rgb(226, 222, 222);
+    display: flex;
+    box-sizing: border-box;
+}
+.i-left, .i-right {
+    width: 50%;
+    height: 100%;
+}
+.i-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: silver;
+}
+.i-right img {
+    width: 100px;
+    height: 100px;
+}
+.info p, h2 {
+    padding: 20px 20px 0 55px;
+}
+.info h2 {
+    padding-top: 60px;
+}
+.mini_info {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(226, 222, 222);
+    display: flex;
+    justify-content: space-around;
+}
+.m-i {
+    width: 350px; 
+}
+.m-i h3 {
+    padding: 20px 0;
+}
+.foto {
+    width: 100%;
+    height: 200px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto img {
+    width: 100px;
+    height: 100px;
+}
+.footer {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(42, 62, 121);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    box-sizing: border-box;
+}
+.footer h2 {
+    padding-bottom: 20px;
+}
+.footer button {
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    border: 0;
+    border-radius: 2px;
+    position: relative;
+    left: 100px;
+}

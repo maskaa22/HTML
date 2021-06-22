@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding: 10px;
+    text-align: justify;
+}
+.widgets {
+    width: 100%;
+    height: 100px;
+    background-color:blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.credni {
+    display: flex;
+    width: 100%;
+    height: 200px;
+}
+.wi {
+    width: 100%;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact {
+    width: 100%;
+    height: 325px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,175 @@
+body, p, h2, h3{
+    margin: 0;
+}
+h2 {
+    text-transform: uppercase;
+}
+.headr {
+    background-color: silver;
+    max-width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    margin: 15px 0 15px 95px;
+    background-color: rgb(46, 24, 105);
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+}
+.nav {
+    margin: 15px 95px 15px 0;
+    width: 120px;
+    height: 40px;
+    color: rgb(43, 46, 202);
+}
+.nav i {
+    margin: 5px 20px 0 0 ;
+    font-size: 30px;
+}
+.glavn {
+    background-color: rgb(46, 24, 105);
+    max-width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.par{
+    width: 40%;
+    height: 100px;
+    display: block;
+}
+.par p {
+    color: rgb(67, 14, 212);
+}
+p {
+    text-align: center;
+}
+.btn {
+    margin: 5% 35%;
+    width: 150px;
+    height: 30px;
+
+}
+.btn button {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.pos {
+    max-width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.block {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: rgb(67, 14, 212);
+}
+.rel {
+    position: relative;
+    bottom: 70px;
+}
+.nazv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mini_block, .info, .karysel, .kryg {
+    margin: 0 30px;
+    max-width: 95%;
+    height: 500px;
+}
+.verh, .niz{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.marg{
+    margin-top: 40px;
+}
+.mar {
+    margin: 10px;
+}
+.bl {
+    width: 200px;
+    height: 200px;
+}
+.info {
+    height: 600px;
+}
+.big_block {
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(67, 14, 212);
+}
+.bl2 {
+    width: 500px;
+    height: 200px;
+}
+.karysel {
+    height: 230px;
+
+}
+.procr {
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+.midl_block {
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: rgb(67, 14, 212);
+}
+.pos_rig {
+    position: relative;
+    top: 80px;
+    font-size: 40px;
+    margin-right: 40px;
+    height: 50px;
+}
+.pos_lef {
+    position: relative;
+    top: 80px;
+    font-size: 40px;
+    margin-left: 10px;
+    height: 50px;
+}
+.kryg{
+    height: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.kru {
+    width: 150px;
+    border-radius: 50%;
+}
+.lor p {
+    width: 800px;
+    position: relative;
+    top: 50px;
+}
+.foter {
+    background-color: rgb(46, 24, 105);
+    max-width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+.kvadr {
+    background-color: rgb(67, 14, 212);
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 5px;
+}

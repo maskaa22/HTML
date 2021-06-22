@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    color: white;
+}
+p {
+    margin: 0;
+    text-align: center;
+}
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: aqua;
+}
+.nav-he {
+    margin: 7px 10px 5px 10px;
+    width: 98,5%;
+    height: 30px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.credni {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.left {
+    width: 40%;
+    height: 100%;
+    background-color: darkgreen;
+}
+.l-hed {
+    margin: 10px;
+    height: 20px;
+    background-color: darksalmon;
+}
+.l-nav {
+    margin: 10px;
+    height: 400px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.l-foo {
+    margin: 10px;
+    height: 20px;
+    background-color: hotpink;
+}
+.right {
+    width: 60%;
+    height: 100%;
+    background-color: palegreen;
+}
+.r-he{
+    margin: 10px;
+    height: 20px;
+    background-color: rebeccapurple;
+}
+.r-art {
+    margin: 10px;
+    height: 195px;
+    background-color: royalblue;
+}
+.r-art-bloc {
+    margin: 15px;
+    height: 25px;
+    background-color: rebeccapurple;
+}
+.r-art-cred {
+    margin: 15px;
+    height: 70px;
+    display: flex;
+
+}
+.r-art-l {
+    margin-right: 15px;
+    width: 75%;
+    height: 70px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r-art-r {
+    width: 25%;
+    height: 70px;
+    background-color: rgb(54, 173, 60);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r-foo {
+    margin: 10px;
+    height: 20px;
+    background-color: hotpink;
+}
+.footer {
+    width: 100%;
+    height: 65px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

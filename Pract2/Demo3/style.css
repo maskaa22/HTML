@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    color: white;
+}
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.big {
+    width: 100%;
+    height: 350px;
+    display: flex;
+}
+.left {
+    width: 40%;
+    height: 100%;
+}
+.hero {
+    height: 40%;
+    background-color: rgb(179, 128, 230);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sidebar {
+    height: 60%;
+    background-color: rgb(50, 177, 98);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right {
+    width: 60%;
+    height: 100%;
+}
+.main {
+    height: 70%;
+    background-color: rgb(221, 179, 74);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.extra {
+    height: 30%;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.niz {
+    width: 100%;
+    height: 150px;
+    background-color: tomato;
+    display: flex;
+}
+.images {
+    width: 70%;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.post {
+    width: 30%;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer {
+    width: 100%;
+    height: 75px;
+    background-color: sandybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

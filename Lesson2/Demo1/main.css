@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+.parents {
+    margin: 10px;
+    height: 595px;
+    
+    border: 5px solid rgb(129, 118, 118);
+    border-radius: 10px;
+    justify-content: flex-start;
+    
+}
+h1 {
+    margin: 0;
+    text-align: center;
+}
+p {
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(97, 86, 86);
+}
+img {
+    height: 375px;
+    width: 550px;
+}
+.verh {
+    margin: 10px 10px 0 10px;
+    height: 200px;
+
+    background-color: silver;
+}
+.mini-parents {
+    margin-left: 10px;
+    display: flex;
+
+    height: 365px;
+    width: 100%;
+}
+.livo {
+    height: 375px;
+    width: 790px;
+
+    background-color: silver;
+    display: flex;
+}
+.pravo {
+    margin: 0;
+
+    height: 375px;
+    width: 516px;
+
+    background-color: silver;
+    display: flex;
+}
